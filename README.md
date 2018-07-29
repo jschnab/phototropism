@@ -1,7 +1,7 @@
 # phototropism
 R scripts for data analysis of dataset related to phototropsim
 
-## Analysis of hypocotyl phototropism time series
+## hypocotyl_time_series.R 
 ### Description of the script
 *hypocotyl_time_series.R* performs data analysis and plotting of hypocotyl curvature time series. The scripts calculates the
 mean and standard error of the mean (sem) for each genotype and time point then plots the mean +/- sem agains time.
