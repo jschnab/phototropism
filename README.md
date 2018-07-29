@@ -18,4 +18,4 @@ while "p" (positive) denotes bending towards the light source.
 
 For a concrete example of how the data should be formatted, see the file names *hypocotyl_phototrop.csv* in this repository. The
 data are organized according to the principles of "tidy data": each variable is a column and each observation is a row. For further
-explanations of this data format, see [Hadley Wickham.Tidy data. The Journal of Statistical Software, vol. 59, 2014.](http://vita.had.co.nz/papers/tidy-data.html).
+explanations of this data format, see [Hadley Wickham.Tidy data. The Journal of Statistical Software, vol. 59, 2014.](http://vita.had.co.nz/papers/tidy-data.html)
