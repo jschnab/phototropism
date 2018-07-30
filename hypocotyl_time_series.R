@@ -1,5 +1,5 @@
 #script for data analysis and plotting of hypocotyl bending time series in an automatic fashion
-#run line number four to create the function called "hypocotyl_phototrop" then call the function from the console
+#run line number 6 (Ctrl/Cmd +Enter) to create the function called "hypocotyl_phototrop" then call the function from the console
 #then select the file containing the data from the pop-up window
 #see the file "hypocotyl_curvature.csv" for a data formatting example
 
